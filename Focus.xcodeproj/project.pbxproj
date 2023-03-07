@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6705C3C729B7DB0E009ED8B3 /* BienvenidaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6705C3C629B7DB0E009ED8B3 /* BienvenidaViewController.swift */; };
 		FEA7F19F29B1AEEF00F5AB52 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEA7F19E29B1AEEF00F5AB52 /* AppDelegate.swift */; };
 		FEA7F1A129B1AEEF00F5AB52 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEA7F1A029B1AEEF00F5AB52 /* SceneDelegate.swift */; };
 		FEA7F1A329B1AEEF00F5AB52 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEA7F1A229B1AEEF00F5AB52 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6705C3C629B7DB0E009ED8B3 /* BienvenidaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BienvenidaViewController.swift; sourceTree = "<group>"; };
 		FEA7F19B29B1AEEF00F5AB52 /* Focus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Focus.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FEA7F19E29B1AEEF00F5AB52 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FEA7F1A029B1AEEF00F5AB52 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				FEA7F19E29B1AEEF00F5AB52 /* AppDelegate.swift */,
 				FEA7F1A029B1AEEF00F5AB52 /* SceneDelegate.swift */,
 				FEA7F1A229B1AEEF00F5AB52 /* ViewController.swift */,
+				6705C3C629B7DB0E009ED8B3 /* BienvenidaViewController.swift */,
 				FEA7F1A429B1AEEF00F5AB52 /* Main.storyboard */,
 				FEA7F1A729B1AEF000F5AB52 /* Assets.xcassets */,
 				FEA7F1A929B1AEF000F5AB52 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FEA7F1A329B1AEEF00F5AB52 /* ViewController.swift in Sources */,
+				6705C3C729B7DB0E009ED8B3 /* BienvenidaViewController.swift in Sources */,
 				FEA7F19F29B1AEEF00F5AB52 /* AppDelegate.swift in Sources */,
 				FEA7F1A129B1AEEF00F5AB52 /* SceneDelegate.swift in Sources */,
 			);
